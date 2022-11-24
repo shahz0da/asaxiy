@@ -1,0 +1,48 @@
+.background {
+    background-color: grey;
+}
+
+.image {
+    border-radius: 15px;
+    margin: 5px;
+}
+
+.main {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.img {
+    width: 160px;
+}
+
+.buy {
+    border-radius: 5px;
+    color: white;
+    transition: 0.2s;
+    border: none;
+    padding: 6px;
+    font-size: 15px;
+}
+.buy:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+.buy1 {
+    background-color: rgb(20, 227, 182);
+}
+
+.buy2 {
+    background-color: rgb(49, 87, 239);
+    
+}
+
+.likes {
+    color: red;
+}
+
+
+
+
+
